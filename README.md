@@ -1,1 +1,3 @@
-# flutter_puma
+# flutter_ecommerce
+
+A new Flutter project.
